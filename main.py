@@ -31,7 +31,7 @@ def main():
 
         raw_lux = (read_buffer[0] << 8 | read_buffer[1])
         lux = round(raw_lux / 1.2, 1)
-        print(f"Lux: {lux}")
+        print(f"Illuminance: {lux} lx")
 
         if scd41_get_data_ready_status():
             raw_measurement = scd41_read_measurement()

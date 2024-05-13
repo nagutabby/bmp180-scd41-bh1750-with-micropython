@@ -1,42 +1,41 @@
-Lux: 53.3
+Illuminance: 26.7 lx
 SCD41: no new data available
-Temperature: 24.5 °C, Pressure: 1000.88 hPa
-Lux: 53.3
+Temperature: 24.5 °C, Pressure: 1001.05 hPa
+Illuminance: 26.7 lx
 SCD41: no new data available
-Temperature: 24.5 °C, Pressure: 1000.86 hPa
-Lux: 53.3
+Temperature: 24.5 °C, Pressure: 1001.02 hPa
+Illuminance: 26.7 lx
 SCD41: no new data available
-Temperature: 24.5 °C, Pressure: 1000.87 hPa
-Lux: 53.3
+Temperature: 24.5 °C, Pressure: 1001.05 hPa
+Illuminance: 26.7 lx
 SCD41: no new data available
-Temperature: 24.5 °C, Pressure: 1000.88 hPa
-Lux: 50.8
-CO2: 1034 ppm, Humidity: 49.1 %, Temperature: 26.4 °C
-Temperature: 24.5 °C, Pressure: 1000.85 hPa
-Lux: 35.8
+Temperature: 24.5 °C, Pressure: 1001.03 hPa
+Illuminance: 25.8 lx
+CO2: 1140 ppm, Humidity: 49.3 %, Temperature: 26.4 °C
+Temperature: 24.5 °C, Pressure: 1001.05 hPa
+Illuminance: 25.8 lx
 SCD41: no new data available
-Temperature: 24.5 °C, Pressure: 1000.86 hPa
-Lux: 34.2
+Temperature: 24.5 °C, Pressure: 1000.97 hPa
+Illuminance: 25.8 lx
 SCD41: no new data available
-Temperature: 24.5 °C, Pressure: 1000.92 hPa
-Lux: 38.3
+Temperature: 24.5 °C, Pressure: 1001.02 hPa
+Illuminance: 26.7 lx
 SCD41: no new data available
-Temperature: 24.5 °C, Pressure: 1000.92 hPa
-Lux: 44.2
-CO2: 1044 ppm, Humidity: 50.0 %, Temperature: 26.0 °C
-Temperature: 24.5 °C, Pressure: 1000.82 hPa
-Lux: 45.8
+Temperature: 24.4 °C, Pressure: 1001.03 hPa
+Illuminance: 25.8 lx
+CO2: 1134 ppm, Humidity: 50.1 %, Temperature: 25.9 °C
+Temperature: 24.4 °C, Pressure: 1001.03 hPa
+Illuminance: 26.7 lx
 SCD41: no new data available
-Temperature: 24.5 °C, Pressure: 1000.89 hPa
-Lux: 45.8
+Temperature: 24.5 °C, Pressure: 1001.06 hPa
+Illuminance: 25.8 lx
 SCD41: no new data available
-Temperature: 24.5 °C, Pressure: 1000.9 hPa
-Lux: 45.8
+Temperature: 24.4 °C, Pressure: 1001.02 hPa
+Illuminance: 27.5 lx
 SCD41: no new data available
-Temperature: 24.5 °C, Pressure: 1000.85 hPa
-Lux: 45.8
+Temperature: 24.4 °C, Pressure: 1001.02 hPa
+Illuminance: 53.3 lx
 SCD41: no new data available
-Temperature: 24.5 °C, Pressure: 1000.89 hPa
-Lux: 45.8
-CO2: 1046 ppm, Humidity: 50.8 %, Temperature: 25.7 °C
-Temperature: 24.5 °C, Pressure: 1000.86 hPa
+Temperature: 24.4 °C, Pressure: 1001.04 hPa
+Illuminance: 55.8 lx
+CO2: 1114 ppm, Humidity: 50.9 %, Temperature: 25.7 °C
