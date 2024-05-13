@@ -1,0 +1,42 @@
+Lux: 53.3
+SCD41: no new data available
+Temperature: 24.5 °C, Pressure: 1000.88 hPa
+Lux: 53.3
+SCD41: no new data available
+Temperature: 24.5 °C, Pressure: 1000.86 hPa
+Lux: 53.3
+SCD41: no new data available
+Temperature: 24.5 °C, Pressure: 1000.87 hPa
+Lux: 53.3
+SCD41: no new data available
+Temperature: 24.5 °C, Pressure: 1000.88 hPa
+Lux: 50.8
+CO2: 1034 ppm, Humidity: 49.1 %, Temperature: 26.4 °C
+Temperature: 24.5 °C, Pressure: 1000.85 hPa
+Lux: 35.8
+SCD41: no new data available
+Temperature: 24.5 °C, Pressure: 1000.86 hPa
+Lux: 34.2
+SCD41: no new data available
+Temperature: 24.5 °C, Pressure: 1000.92 hPa
+Lux: 38.3
+SCD41: no new data available
+Temperature: 24.5 °C, Pressure: 1000.92 hPa
+Lux: 44.2
+CO2: 1044 ppm, Humidity: 50.0 %, Temperature: 26.0 °C
+Temperature: 24.5 °C, Pressure: 1000.82 hPa
+Lux: 45.8
+SCD41: no new data available
+Temperature: 24.5 °C, Pressure: 1000.89 hPa
+Lux: 45.8
+SCD41: no new data available
+Temperature: 24.5 °C, Pressure: 1000.9 hPa
+Lux: 45.8
+SCD41: no new data available
+Temperature: 24.5 °C, Pressure: 1000.85 hPa
+Lux: 45.8
+SCD41: no new data available
+Temperature: 24.5 °C, Pressure: 1000.89 hPa
+Lux: 45.8
+CO2: 1046 ppm, Humidity: 50.8 %, Temperature: 25.7 °C
+Temperature: 24.5 °C, Pressure: 1000.86 hPa
