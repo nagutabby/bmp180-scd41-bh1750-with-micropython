@@ -24,14 +24,15 @@ def main():
     set_continuous_high_res_mode()
 
     while True:
-        time.sleep(1)
-
+        for i in range(15, 0, -1):
+            print(i)
+            time.sleep(1)
         read_buffer = bytearray(2)
         i2c.readfrom_into(BH1750_I2C_ADDRESS, read_buffer, len(read_buffer))
 
         raw_lux = (read_buffer[0] << 8 | read_buffer[1])
         lux = round(raw_lux / 1.2, 1)
-        print(f"Illuminance: {lux} lx")
+        print(f"BH1750: Illuminance: {lux} lx")
 
         if scd41_get_data_ready_status():
             raw_measurement = scd41_read_measurement()
@@ -44,7 +45,7 @@ def main():
                 raw_humidity = (raw_measurement[6] << 8) | raw_measurement[7]
                 humidity = round(100 * (raw_humidity / (2 ** 16 - 1)), 1)
 
-                print(f"CO2: {co2} ppm, Humidity: {humidity} %, Temperature: {temperature} °C")
+                print(f"SCD41: CO2: {co2} ppm, Humidity: {humidity} %, Temperature: {temperature} °C")
         else:
             print("SCD41: no new data available")
 
@@ -191,7 +192,7 @@ def compute(coef, raw_temp, raw_press):
     X2 = (-7357 * p) // (1 << 16)
     p = p + (X1 + X2 + 3791) // 16
 
-    print(f"Temperature: {T / 10} °C, Pressure: {p / 100} hPa")
+    print(f"BMP180: Temperature: {T / 10} °C, Pressure: {p / 100} hPa")
 
 bmp180_read_chip_id(i2c)
 coef = bmp180_read_coefficients(i2c)
